@@ -1,6 +1,6 @@
 # Project proposal: A Dice-Based Tournament Roguelike Deck Builder
 
-**Course:** CSE311 / CSE311L Database Management Systems, North South University
+**Course:** CSE311 / CSE311L Database Management Systems, North South University\
 **Team:** Sadman (and teammate) · **Stack:** PHP + MySQL · **Date:** October 2026 (draft)
 
 ---
