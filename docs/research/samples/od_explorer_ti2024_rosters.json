@@ -1,0 +1,382 @@
+{
+ "command": "SELECT",
+ "rowCount": 40,
+ "rows": [
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Aurora Gaming",
+   "account_id": 100471531,
+   "player": "J",
+   "games": 16
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Aurora Gaming",
+   "account_id": 193815691,
+   "player": "Q",
+   "games": 16
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Aurora Gaming",
+   "account_id": 101259972,
+   "player": "Oli~",
+   "games": 16
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Aurora Gaming",
+   "account_id": 210053851,
+   "player": "lorenof",
+   "games": 16
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Aurora Gaming",
+   "account_id": 375507918,
+   "player": "23savage",
+   "games": 16
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "beastcoast",
+   "account_id": 138177198,
+   "player": "Vitaly 誇り",
+   "games": 11
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "beastcoast",
+   "account_id": 425588742,
+   "player": "payk",
+   "games": 11
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "beastcoast",
+   "account_id": 349310876,
+   "player": "MoOz",
+   "games": 11
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "beastcoast",
+   "account_id": 1031547092,
+   "player": "Elmisho",
+   "games": 11
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "beastcoast",
+   "account_id": 118948666,
+   "player": "Lumpy",
+   "games": 11
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "BETBOOM TEAM",
+   "account_id": 165564598,
+   "player": "MieRo",
+   "games": 16
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "BETBOOM TEAM",
+   "account_id": 124801257,
+   "player": "Nightfall",
+   "games": 16
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "BETBOOM TEAM",
+   "account_id": 480412663,
+   "player": "gpk~",
+   "games": 16
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "BETBOOM TEAM",
+   "account_id": 317880638,
+   "player": "Save-",
+   "games": 16
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "BETBOOM TEAM",
+   "account_id": 431770905,
+   "player": "TORONTOTOKYO",
+   "games": 16
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Cloud9",
+   "account_id": 106573901,
+   "player": "No[o]ne-",
+   "games": 14
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Cloud9",
+   "account_id": 171262902,
+   "player": "医者watson`",
+   "games": 14
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Cloud9",
+   "account_id": 56351509,
+   "player": "DM",
+   "games": 14
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Cloud9",
+   "account_id": 127565532,
+   "player": "Fishman",
+   "games": 14
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Cloud9",
+   "account_id": 196878136,
+   "player": "Kataomi`",
+   "games": 14
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "enjoy",
+   "account_id": 312436974,
+   "player": "CHIRA_JUNIOR",
+   "games": 11
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "enjoy",
+   "account_id": 175311897,
+   "player": "swedenstrong",
+   "games": 11
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "enjoy",
+   "account_id": 168126336,
+   "player": "Cloud",
+   "games": 11
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "enjoy",
+   "account_id": 123787715,
+   "player": "RESPECT",
+   "games": 11
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "enjoy",
+   "account_id": 904131336,
+   "player": "Munkushi~",
+   "games": 11
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Gaimin Gladiators",
+   "account_id": 221666230,
+   "player": "Quinn",
+   "games": 22
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Gaimin Gladiators",
+   "account_id": 116934015,
+   "player": "dyrachyo",
+   "games": 22
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Gaimin Gladiators",
+   "account_id": 91730177,
+   "player": "Seleri",
+   "games": 22
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Gaimin Gladiators",
+   "account_id": 16497807,
+   "player": "tOfu",
+   "games": 22
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Gaimin Gladiators",
+   "account_id": 97590558,
+   "player": "Ace ♠",
+   "games": 22
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "HEROIC",
+   "account_id": 81306398,
+   "player": "KingJungles",
+   "games": 14
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "HEROIC",
+   "account_id": 138880576,
+   "player": "Davai",
+   "games": 14
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "HEROIC",
+   "account_id": 164685175,
+   "player": "k1",
+   "games": 14
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "HEROIC",
+   "account_id": 131303632,
+   "player": "4nalog丶01",
+   "games": 14
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "HEROIC",
+   "account_id": 157989498,
+   "player": "Scofield",
+   "games": 14
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Invictus Gaming",
+   "account_id": 138857296,
+   "player": "JT-",
+   "games": 14
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Invictus Gaming",
+   "account_id": 207829314,
+   "player": "BoBoKa",
+   "games": 14
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Invictus Gaming",
+   "account_id": 148215639,
+   "player": "Monet",
+   "games": 14
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Invictus Gaming",
+   "account_id": 173978074,
+   "player": "NothingToSay",
+   "games": 14
+  },
+  {
+   "leagueid": 16935,
+   "league": "The International 2024",
+   "team": "Invictus Gaming",
+   "account_id": 94296097,
+   "player": "xNova",
+   "games": 14
+  }
+ ],
+ "fields": [
+  {
+   "name": "leagueid",
+   "tableID": 928656840,
+   "columnID": 1,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "league",
+   "tableID": 928656840,
+   "columnID": 5,
+   "dataTypeID": 25,
+   "dataTypeSize": -1,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "team",
+   "tableID": 928663136,
+   "columnID": 2,
+   "dataTypeID": 25,
+   "dataTypeSize": -1,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "account_id",
+   "tableID": 928656877,
+   "columnID": 2,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "player",
+   "tableID": 446363468,
+   "columnID": 2,
+   "dataTypeID": 25,
+   "dataTypeSize": -1,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "games",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  }
+ ]
+}

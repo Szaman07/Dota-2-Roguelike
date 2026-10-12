@@ -1,0 +1,165 @@
+{
+ "command": "SELECT",
+ "rowCount": 16,
+ "rows": [
+  {
+   "name": "Team Liquid",
+   "games": 18,
+   "wins": 15,
+   "last_day": "2024-09-15T00:00:00.000Z",
+   "proxy_place": 1
+  },
+  {
+   "name": "Gaimin Gladiators",
+   "games": 22,
+   "wins": 11,
+   "last_day": "2024-09-15T00:00:00.000Z",
+   "proxy_place": 1
+  },
+  {
+   "name": "Tundra Esports",
+   "games": 22,
+   "wins": 15,
+   "last_day": "2024-09-15T00:00:00.000Z",
+   "proxy_place": 3
+  },
+  {
+   "name": "Team Falcons",
+   "games": 20,
+   "wins": 14,
+   "last_day": "2024-09-14T00:00:00.000Z",
+   "proxy_place": 4
+  },
+  {
+   "name": "Xtreme Gaming",
+   "games": 15,
+   "wins": 9,
+   "last_day": "2024-09-14T00:00:00.000Z",
+   "proxy_place": 5
+  },
+  {
+   "name": "Cloud9",
+   "games": 14,
+   "wins": 9,
+   "last_day": "2024-09-14T00:00:00.000Z",
+   "proxy_place": 6
+  },
+  {
+   "name": "Aurora Gaming",
+   "games": 16,
+   "wins": 6,
+   "last_day": "2024-09-13T00:00:00.000Z",
+   "proxy_place": 7
+  },
+  {
+   "name": "BETBOOM TEAM",
+   "games": 16,
+   "wins": 7,
+   "last_day": "2024-09-13T00:00:00.000Z",
+   "proxy_place": 8
+  },
+  {
+   "name": "Team Spirit",
+   "games": 13,
+   "wins": 9,
+   "last_day": "2024-09-10T00:00:00.000Z",
+   "proxy_place": 9
+  },
+  {
+   "name": "HEROIC",
+   "games": 14,
+   "wins": 5,
+   "last_day": "2024-09-10T00:00:00.000Z",
+   "proxy_place": 10
+  },
+  {
+   "name": "Invictus Gaming",
+   "games": 14,
+   "wins": 4,
+   "last_day": "2024-09-10T00:00:00.000Z",
+   "proxy_place": 11
+  },
+  {
+   "name": "beastcoast",
+   "games": 11,
+   "wins": 1,
+   "last_day": "2024-09-10T00:00:00.000Z",
+   "proxy_place": 12
+  },
+  {
+   "name": "enjoy",
+   "games": 11,
+   "wins": 4,
+   "last_day": "2024-09-09T00:00:00.000Z",
+   "proxy_place": 13
+  },
+  {
+   "name": "nouns",
+   "games": 13,
+   "wins": 5,
+   "last_day": "2024-09-09T00:00:00.000Z",
+   "proxy_place": 14
+  },
+  {
+   "name": "Team Zero",
+   "games": 13,
+   "wins": 5,
+   "last_day": "2024-09-09T00:00:00.000Z",
+   "proxy_place": 15
+  },
+  {
+   "name": "Talon",
+   "games": 10,
+   "wins": 2,
+   "last_day": "2024-09-09T00:00:00.000Z",
+   "proxy_place": 16
+  }
+ ],
+ "fields": [
+  {
+   "name": "name",
+   "tableID": 928663136,
+   "columnID": 2,
+   "dataTypeID": 25,
+   "dataTypeSize": -1,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "games",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "wins",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "last_day",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 1082,
+   "dataTypeSize": 4,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "proxy_place",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  }
+ ]
+}

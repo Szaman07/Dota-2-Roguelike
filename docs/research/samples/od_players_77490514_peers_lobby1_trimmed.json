@@ -1,0 +1,62 @@
+{
+ "_note": "Boxi, lobby_type=1; first 2 rows plus the SabeRLight- row, of 200 rows",
+ "rows": [
+  {
+   "account_id": 152962063,
+   "last_played": 1790959261,
+   "win": 1205,
+   "games": 2085,
+   "with_win": 1204,
+   "with_games": 2082,
+   "against_win": 1,
+   "against_games": 3,
+   "with_gpm_sum": 754526,
+   "with_xpm_sum": 1018379,
+   "personaname": "yondaime",
+   "name": "m1CKe",
+   "is_contributor": false,
+   "is_subscriber": false,
+   "last_login": "2024-11-19T20:01:05.317Z",
+   "avatar": "https://avatars.steamstatic.com/e85a5349a39122098555676811c5a05ff5ff0614.jpg",
+   "avatarfull": "https://avatars.steamstatic.com/e85a5349a39122098555676811c5a05ff5ff0614_full.jpg"
+  },
+  {
+   "account_id": 54580962,
+   "last_played": 1757267675,
+   "win": 1061,
+   "games": 1854,
+   "with_win": 1060,
+   "with_games": 1849,
+   "against_win": 1,
+   "against_games": 5,
+   "with_gpm_sum": 690617,
+   "with_xpm_sum": 913186,
+   "personaname": "Maelle",
+   "name": "Insania ",
+   "is_contributor": false,
+   "is_subscriber": false,
+   "last_login": "2016-11-11T17:31:55.114Z",
+   "avatar": "https://avatars.steamstatic.com/09419f7e0fa28901a8f290548e956d677c764468.jpg",
+   "avatarfull": "https://avatars.steamstatic.com/09419f7e0fa28901a8f290548e956d677c764468_full.jpg"
+  },
+  {
+   "account_id": 126212866,
+   "last_played": 1778843457,
+   "win": 231,
+   "games": 413,
+   "with_win": 196,
+   "with_games": 349,
+   "against_win": 35,
+   "against_games": 64,
+   "with_gpm_sum": 115485,
+   "with_xpm_sum": 168554,
+   "personaname": "Him",
+   "name": "Saberlight",
+   "is_contributor": false,
+   "is_subscriber": false,
+   "last_login": "2018-05-22T14:50:18.707Z",
+   "avatar": "https://avatars.steamstatic.com/1f83a11e6442a77dc67792a4ca05c735b9e4c0dd.jpg",
+   "avatarfull": "https://avatars.steamstatic.com/1f83a11e6442a77dc67792a4ca05c735b9e4c0dd_full.jpg"
+  }
+ ]
+}

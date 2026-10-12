@@ -1,0 +1,83 @@
+{
+ "command": "SELECT",
+ "rowCount": 6,
+ "rows": [
+  {
+   "name": "Yatoro",
+   "accounts": 6,
+   "ids": [
+    "138264143",
+    "841766240",
+    "321580662",
+    "927417983",
+    "1166602884",
+    "1673971382"
+   ]
+  },
+  {
+   "name": "Miracle-",
+   "accounts": 2,
+   "ids": [
+    "105248644",
+    "1676181444"
+   ]
+  },
+  {
+   "name": "Topson",
+   "accounts": 1,
+   "ids": [
+    "94054712"
+   ]
+  },
+  {
+   "name": "Puppey",
+   "accounts": 1,
+   "ids": [
+    "87278757"
+   ]
+  },
+  {
+   "name": "Dendi",
+   "accounts": 1,
+   "ids": [
+    "70388657"
+   ]
+  },
+  {
+   "name": "Ceb",
+   "accounts": 1,
+   "ids": [
+    "88271237"
+   ]
+  }
+ ],
+ "fields": [
+  {
+   "name": "name",
+   "tableID": 446363468,
+   "columnID": 2,
+   "dataTypeID": 25,
+   "dataTypeSize": -1,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "accounts",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "ids",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 1016,
+   "dataTypeSize": -1,
+   "dataTypeModifier": -1,
+   "format": "text"
+  }
+ ]
+}

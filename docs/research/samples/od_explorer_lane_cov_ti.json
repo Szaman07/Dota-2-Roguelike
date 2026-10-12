@@ -1,0 +1,128 @@
+{
+ "command": "SELECT",
+ "rowCount": 14,
+ "rows": [
+  {
+   "name": "The International 2012",
+   "rows": 1540,
+   "has_lane_role": 0,
+   "has_gpm": 1540
+  },
+  {
+   "name": "The International 2013",
+   "rows": 1620,
+   "has_lane_role": 0,
+   "has_gpm": 1620
+  },
+  {
+   "name": "The International 2014",
+   "rows": 4160,
+   "has_lane_role": 0,
+   "has_gpm": 4160
+  },
+  {
+   "name": "The International 2015",
+   "rows": 4090,
+   "has_lane_role": 20,
+   "has_gpm": 4090
+  },
+  {
+   "name": "The International 2016",
+   "rows": 3980,
+   "has_lane_role": 3980,
+   "has_gpm": 3980
+  },
+  {
+   "name": "The International 2017",
+   "rows": 5400,
+   "has_lane_role": 5380,
+   "has_gpm": 5400
+  },
+  {
+   "name": "The International 2018",
+   "rows": 4010,
+   "has_lane_role": 4010,
+   "has_gpm": 4010
+  },
+  {
+   "name": "The International 2019",
+   "rows": 4610,
+   "has_lane_role": 4610,
+   "has_gpm": 4610
+  },
+  {
+   "name": "The International 2021",
+   "rows": 4870,
+   "has_lane_role": 4830,
+   "has_gpm": 4870
+  },
+  {
+   "name": "The International 2022",
+   "rows": 2310,
+   "has_lane_role": 2310,
+   "has_gpm": 2310
+  },
+  {
+   "name": "The International 2023",
+   "rows": 1510,
+   "has_lane_role": 1510,
+   "has_gpm": 1510
+  },
+  {
+   "name": "The International 2024",
+   "rows": 1210,
+   "has_lane_role": 1210,
+   "has_gpm": 1210
+  },
+  {
+   "name": "The International 2025",
+   "rows": 1440,
+   "has_lane_role": 1440,
+   "has_gpm": 1440
+  },
+  {
+   "name": "The International 2026",
+   "rows": 1470,
+   "has_lane_role": 1470,
+   "has_gpm": 1470
+  }
+ ],
+ "fields": [
+  {
+   "name": "name",
+   "tableID": 928656840,
+   "columnID": 5,
+   "dataTypeID": 25,
+   "dataTypeSize": -1,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "rows",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "has_lane_role",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "has_gpm",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  }
+ ]
+}

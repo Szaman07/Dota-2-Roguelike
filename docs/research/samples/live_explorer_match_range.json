@@ -1,0 +1,1 @@
+{"_source":"GET /api/explorer?sql=SELECT min(start_time),max(start_time) FROM matches (2026-10-11)","rows":[{"min":1338225112,"max":1791732423}],"err":null,"_note":"1338225112 = 2012-05-28, 1791732423 = 2026-10-11 (UTC)"}

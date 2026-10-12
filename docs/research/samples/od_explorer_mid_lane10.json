@@ -1,0 +1,92 @@
+{
+ "command": "SELECT",
+ "rowCount": 8,
+ "rows": [
+  {
+   "hero_id": 59,
+   "games": 1109,
+   "gold_diff_10": "718",
+   "xp_diff_10": "868"
+  },
+  {
+   "hero_id": 11,
+   "games": 4318,
+   "gold_diff_10": "518",
+   "xp_diff_10": "666"
+  },
+  {
+   "hero_id": 43,
+   "games": 884,
+   "gold_diff_10": "400",
+   "xp_diff_10": "231"
+  },
+  {
+   "hero_id": 35,
+   "games": 2118,
+   "gold_diff_10": "254",
+   "xp_diff_10": "292"
+  },
+  {
+   "hero_id": 13,
+   "games": 4577,
+   "gold_diff_10": "-4",
+   "xp_diff_10": "80"
+  },
+  {
+   "hero_id": 76,
+   "games": 842,
+   "gold_diff_10": "-6",
+   "xp_diff_10": "-90"
+  },
+  {
+   "hero_id": 106,
+   "games": 5095,
+   "gold_diff_10": "-16",
+   "xp_diff_10": "-28"
+  },
+  {
+   "hero_id": 74,
+   "games": 3563,
+   "gold_diff_10": "-214",
+   "xp_diff_10": "-202"
+  }
+ ],
+ "fields": [
+  {
+   "name": "hero_id",
+   "tableID": 928656877,
+   "columnID": 4,
+   "dataTypeID": 23,
+   "dataTypeSize": 4,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "games",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "gold_diff_10",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 1700,
+   "dataTypeSize": -1,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "xp_diff_10",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 1700,
+   "dataTypeSize": -1,
+   "dataTypeModifier": -1,
+   "format": "text"
+  }
+ ]
+}

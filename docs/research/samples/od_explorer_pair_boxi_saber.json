@@ -1,0 +1,20 @@
+{
+ "command": "SELECT",
+ "rowCount": 1,
+ "rows": [
+  {
+   "games_together": 346
+  }
+ ],
+ "fields": [
+  {
+   "name": "games_together",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  }
+ ]
+}

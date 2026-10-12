@@ -1,0 +1,135 @@
+{
+ "command": "SELECT",
+ "rowCount": 20,
+ "rows": [
+  {
+   "team_id": 8160886,
+   "name": "Corona Virus 69",
+   "tag": "Covid-69"
+  },
+  {
+   "team_id": 10144959,
+   "name": "IGNARUS VICTORIARUM",
+   "tag": "IV"
+  },
+  {
+   "team_id": 7439813,
+   "name": "LOKOMOTIV GORNA ORYAHOVITSA",
+   "tag": "LokoGorna."
+  },
+  {
+   "team_id": 9749662,
+   "name": "Lunar Vibes",
+   "tag": ""
+  },
+  {
+   "team_id": 9768002,
+   "name": "Lunar Vibes",
+   "tag": "LV."
+  },
+  {
+   "team_id": 2142185,
+   "name": "MainaVira",
+   "tag": "MV"
+  },
+  {
+   "team_id": 1783781,
+   "name": "Nao `Vi",
+   "tag": "Nao`Vi"
+  },
+  {
+   "team_id": 5530090,
+   "name": "Nara Vidana",
+   "tag": "Na'Vi"
+  },
+  {
+   "team_id": 5636629,
+   "name": "Nasos Vicer",
+   "tag": "Na^Vi"
+  },
+  {
+   "team_id": 6407928,
+   "name": "Nasos Vicer",
+   "tag": "NA 'VI"
+  },
+  {
+   "team_id": 7036115,
+   "name": "NASOS VINCERE",
+   "tag": "Na'Vi"
+  },
+  {
+   "team_id": 6538598,
+   "name": "Nasvigaetsya KAIFYN",
+   "tag": "VP"
+  },
+  {
+   "team_id": 6711767,
+   "name": "Nas`Vi(ka)",
+   "tag": "VI KA"
+  },
+  {
+   "team_id": 1940565,
+   "name": "Natus Viiincere",
+   "tag": "Na`Vi"
+  },
+  {
+   "team_id": 2285482,
+   "name": "NatusVincere",
+   "tag": "clown"
+  },
+  {
+   "team_id": 36,
+   "name": "Natus Vincere",
+   "tag": "NAVI"
+  },
+  {
+   "team_id": 9828954,
+   "name": "Natus Vincere",
+   "tag": "NAVI"
+  },
+  {
+   "team_id": 2116179,
+   "name": "NatusVincere!",
+   "tag": "Na'Vi."
+  },
+  {
+   "team_id": 6073972,
+   "name": "NATUS  VINCERE",
+   "tag": "NAVI"
+  },
+  {
+   "team_id": 2801532,
+   "name": "Natus Vincere MN",
+   "tag": "Na Vi"
+  }
+ ],
+ "fields": [
+  {
+   "name": "team_id",
+   "tableID": 928663136,
+   "columnID": 1,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "name",
+   "tableID": 928663136,
+   "columnID": 2,
+   "dataTypeID": 25,
+   "dataTypeSize": -1,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "tag",
+   "tableID": 928663136,
+   "columnID": 3,
+   "dataTypeID": 25,
+   "dataTypeSize": -1,
+   "dataTypeModifier": -1,
+   "format": "text"
+  }
+ ]
+}

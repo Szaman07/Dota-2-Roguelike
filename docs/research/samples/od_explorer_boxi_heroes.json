@@ -1,0 +1,60 @@
+{
+ "command": "SELECT",
+ "rowCount": 5,
+ "rows": [
+  {
+   "hero_id": 100,
+   "games": 142,
+   "wins": 84
+  },
+  {
+   "hero_id": 119,
+   "games": 90,
+   "wins": 56
+  },
+  {
+   "hero_id": 65,
+   "games": 86,
+   "wins": 48
+  },
+  {
+   "hero_id": 123,
+   "games": 86,
+   "wins": 50
+  },
+  {
+   "hero_id": 19,
+   "games": 79,
+   "wins": 43
+  }
+ ],
+ "fields": [
+  {
+   "name": "hero_id",
+   "tableID": 928656877,
+   "columnID": 4,
+   "dataTypeID": 23,
+   "dataTypeSize": 4,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "games",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "wins",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  }
+ ]
+}

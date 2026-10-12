@@ -1,0 +1,55 @@
+{
+ "_note": "Boxi, lobby_type=1; top 5 by games of 127 rows",
+ "rows": [
+  {
+   "hero_id": 100,
+   "last_played": 1787298340,
+   "games": 143,
+   "win": 85,
+   "with_games": 72,
+   "with_win": 40,
+   "against_games": 160,
+   "against_win": 84
+  },
+  {
+   "hero_id": 19,
+   "last_played": 1773606284,
+   "games": 91,
+   "win": 51,
+   "with_games": 196,
+   "with_win": 118,
+   "against_games": 221,
+   "against_win": 136
+  },
+  {
+   "hero_id": 119,
+   "last_played": 1787364744,
+   "games": 90,
+   "win": 56,
+   "with_games": 81,
+   "with_win": 53,
+   "against_games": 94,
+   "against_win": 62
+  },
+  {
+   "hero_id": 65,
+   "last_played": 1778937909,
+   "games": 88,
+   "win": 48,
+   "with_games": 66,
+   "with_win": 38,
+   "against_games": 187,
+   "against_win": 113
+  },
+  {
+   "hero_id": 123,
+   "last_played": 1790959261,
+   "games": 86,
+   "win": 50,
+   "with_games": 27,
+   "with_win": 16,
+   "against_games": 105,
+   "against_win": 59
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "command": "SELECT",
+ "rowCount": 21,
+ "rows": [
+  {
+   "column_name": "player_slot"
+  },
+  {
+   "column_name": "last_hits"
+  },
+  {
+   "column_name": "denies"
+  },
+  {
+   "column_name": "gold_per_min"
+  },
+  {
+   "column_name": "gold_spent"
+  },
+  {
+   "column_name": "stuns"
+  },
+  {
+   "column_name": "max_hero_hit"
+  },
+  {
+   "column_name": "gold_t"
+  },
+  {
+   "column_name": "lh_t"
+  },
+  {
+   "column_name": "xp_t"
+  },
+  {
+   "column_name": "lane_pos"
+  },
+  {
+   "column_name": "obs_placed"
+  },
+  {
+   "column_name": "camps_stacked"
+  },
+  {
+   "column_name": "lane"
+  },
+  {
+   "column_name": "lane_role"
+  },
+  {
+   "column_name": "firstblood_claimed"
+  },
+  {
+   "column_name": "teamfight_participation"
+  },
+  {
+   "column_name": "roshans_killed"
+  },
+  {
+   "column_name": "dn_t"
+  },
+  {
+   "column_name": "net_worth"
+  },
+  {
+   "column_name": "hero_variant"
+  }
+ ],
+ "fields": [
+  {
+   "name": "column_name",
+   "tableID": 12151,
+   "columnID": 4,
+   "dataTypeID": 1043,
+   "dataTypeSize": -1,
+   "dataTypeModifier": -1,
+   "format": "text"
+  }
+ ]
+}

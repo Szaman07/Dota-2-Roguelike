@@ -1,0 +1,1 @@
+{"_source":"GET https://api.opendota.com/api/metadata (2026-10-11)","freeCallLimit":3000,"freeRateLimit":60,"premRateLimit":3000,"_top_level_keys":["scenarios","isSubscriber","freeCallLimit","freeRateLimit","premRateLimit","beta"]}

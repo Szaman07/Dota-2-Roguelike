@@ -1,0 +1,224 @@
+{
+ "command": "SELECT",
+ "rowCount": 30,
+ "rows": [
+  {
+   "hero_id": 38,
+   "len": "a_<30",
+   "games": 3038,
+   "wr": "0.565"
+  },
+  {
+   "hero_id": 38,
+   "len": "b_30-45",
+   "games": 3823,
+   "wr": "0.490"
+  },
+  {
+   "hero_id": 38,
+   "len": "c_45+",
+   "games": 1083,
+   "wr": "0.459"
+  },
+  {
+   "hero_id": 41,
+   "len": "a_<30",
+   "games": 1361,
+   "wr": "0.429"
+  },
+  {
+   "hero_id": 41,
+   "len": "b_30-45",
+   "games": 2046,
+   "wr": "0.522"
+  },
+  {
+   "hero_id": 41,
+   "len": "c_45+",
+   "games": 574,
+   "wr": "0.566"
+  },
+  {
+   "hero_id": 43,
+   "len": "a_<30",
+   "games": 1423,
+   "wr": "0.491"
+  },
+  {
+   "hero_id": 43,
+   "len": "b_30-45",
+   "games": 1579,
+   "wr": "0.480"
+  },
+  {
+   "hero_id": 43,
+   "len": "c_45+",
+   "games": 424,
+   "wr": "0.488"
+  },
+  {
+   "hero_id": 59,
+   "len": "a_<30",
+   "games": 1314,
+   "wr": "0.514"
+  },
+  {
+   "hero_id": 59,
+   "len": "b_30-45",
+   "games": 1338,
+   "wr": "0.487"
+  },
+  {
+   "hero_id": 59,
+   "len": "c_45+",
+   "games": 235,
+   "wr": "0.528"
+  },
+  {
+   "hero_id": 66,
+   "len": "a_<30",
+   "games": 1014,
+   "wr": "0.687"
+  },
+  {
+   "hero_id": 66,
+   "len": "b_30-45",
+   "games": 1168,
+   "wr": "0.551"
+  },
+  {
+   "hero_id": 66,
+   "len": "c_45+",
+   "games": 335,
+   "wr": "0.552"
+  },
+  {
+   "hero_id": 67,
+   "len": "a_<30",
+   "games": 685,
+   "wr": "0.407"
+  },
+  {
+   "hero_id": 67,
+   "len": "b_30-45",
+   "games": 870,
+   "wr": "0.451"
+  },
+  {
+   "hero_id": 67,
+   "len": "c_45+",
+   "games": 221,
+   "wr": "0.584"
+  },
+  {
+   "hero_id": 74,
+   "len": "a_<30",
+   "games": 3544,
+   "wr": "0.492"
+  },
+  {
+   "hero_id": 74,
+   "len": "b_30-45",
+   "games": 3938,
+   "wr": "0.510"
+  },
+  {
+   "hero_id": 74,
+   "len": "c_45+",
+   "games": 890,
+   "wr": "0.510"
+  },
+  {
+   "hero_id": 76,
+   "len": "a_<30",
+   "games": 1171,
+   "wr": "0.402"
+  },
+  {
+   "hero_id": 76,
+   "len": "b_30-45",
+   "games": 1187,
+   "wr": "0.497"
+  },
+  {
+   "hero_id": 76,
+   "len": "c_45+",
+   "games": 264,
+   "wr": "0.481"
+  },
+  {
+   "hero_id": 77,
+   "len": "a_<30",
+   "games": 1141,
+   "wr": "0.617"
+  },
+  {
+   "hero_id": 77,
+   "len": "b_30-45",
+   "games": 1264,
+   "wr": "0.486"
+  },
+  {
+   "hero_id": 77,
+   "len": "c_45+",
+   "games": 321,
+   "wr": "0.452"
+  },
+  {
+   "hero_id": 109,
+   "len": "a_<30",
+   "games": 2698,
+   "wr": "0.559"
+  },
+  {
+   "hero_id": 109,
+   "len": "b_30-45",
+   "games": 3705,
+   "wr": "0.500"
+  },
+  {
+   "hero_id": 109,
+   "len": "c_45+",
+   "games": 1028,
+   "wr": "0.447"
+  }
+ ],
+ "fields": [
+  {
+   "name": "hero_id",
+   "tableID": 928656877,
+   "columnID": 4,
+   "dataTypeID": 23,
+   "dataTypeSize": 4,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "len",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 25,
+   "dataTypeSize": -1,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "games",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 20,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "wr",
+   "tableID": 0,
+   "columnID": 0,
+   "dataTypeID": 1700,
+   "dataTypeSize": -1,
+   "dataTypeModifier": -1,
+   "format": "text"
+  }
+ ]
+}
